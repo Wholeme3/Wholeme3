@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wholeme3 Some call me Papi Chulo or just Jerome P
 - 👀 I’m interested in ...working with teams on projects to build skills and a better resume in coding specific to PYTHON for now.
-- 🌱 I’m currently learning ...Python Coding
+- 🌱 I’m currently learning ...Python Coding  Currently taking online AWS Cloud course(Cloud Arcitech/Engineer, Click -Ops)
 - 💞️ I’m looking to collaborate on ...small projects or anything that helps reinforce what i have learned thus far.
 - 📫 How to reach me ...email:hwbm74@gmail.com, instagram:jeromepayne940, Facebook:Jerome Payne
 - 😄 Pronouns: ...REALLY!?  too old for pronouns
